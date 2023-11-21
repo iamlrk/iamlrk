@@ -6,8 +6,7 @@
 ## I'm am an aspiring Aerospace Engineer and freelance developer!!
 
 - 🔭 I am the co creater of MOPy: [Learn more about it.][MOPy]!
-- 🌱 I’m currently working on the MOPy application and preparing for my GATE exam.
-- 🥅 2021 Goals: Contribute to Open Source projects and improve my skill sets.  
+- 🌱 I’m currently working on in Manna Drone Delivery Company in Dublin, Ireland.
 
 ### Connect with me:
 
@@ -38,9 +37,8 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=iamlrk&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlrk&langs_count=5&theme=tokyonight)]()
 
-[website]: https://iamlrk.com
+[website]: https://iamlrk.github.io
 [twitter]: https://twitter.com/itslrk
 [instagram]: https://instagram.com/iam.lrk
 [linkedin]: https://linkedin.com/in/ramkiran-lepakshi
 [MOPy]: https://mechanics-of-orbit.github.io/getMOPy
-[showcase]: https://showcase.com
