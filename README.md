@@ -6,7 +6,7 @@
 ## I'm am an aspiring Aerospace Engineer and freelance developer!!
 
 - 🔭 I am the co creater of MOPy: [Learn more about it.][MOPy]!
-- 🌱 I’m currently working on in Manna Drone Delivery Company in Dublin, Ireland.
+- 🌱 I’m currently working in Manna Drone Delivery Company in Dublin, Ireland.
 
 ### Connect with me:
 
