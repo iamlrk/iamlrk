@@ -32,6 +32,10 @@
 <br />
 <br />
 
+## Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamlrk&repo=tuppersat23-r2d1)](https://github.com/iamlrk/tuppersat23-r2d1)
+
 ## :zap: GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=iamlrk&count_private=true&theme=omni&showicons=true&hide_rank=true)]()
